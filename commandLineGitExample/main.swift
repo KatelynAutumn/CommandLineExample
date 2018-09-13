@@ -8,4 +8,5 @@
 
 import Foundation
 
-
+print("Hello, world")
+print("Goodbye, world")
